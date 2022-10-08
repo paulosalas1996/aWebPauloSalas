@@ -1,0 +1,10 @@
+body
+
+a {
+   
+    -webkit-transition: color 0s; 
+    transition: color 0s;
+}
+a:hover {
+    color: #09fa59;
+}
